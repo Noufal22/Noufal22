@@ -3,61 +3,82 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Scientist;Machine+Learning+%26+Deep+Learning;AI+Engineer+%7C+Python+%7C+TensorFlow;Building+Real-World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Data+Scientist;Machine+Learning+Engineer;AI+Enthusiast+%7C+Python+%7C+XGBoost+%7C+TensorFlow;Building+Intelligent+Real-World+Systems" />
 </p>
 
 <p align="center">
-  <b>📍 Kerala, India</b>
+  <b>📍 Kollam, Kerala, India</b>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-I am a **Data Scientist and Machine Learning Engineer** with a strong focus on **Deep Learning and AI-driven solutions**.  
-I enjoy building **scalable, real-world models** that solve meaningful problems.
+I am an **Aspiring Software Engineer and Data Science Enthusiast** with a strong foundation in **Machine Learning, AI, and Data Analytics**.  
+I enjoy building **real-world ML applications**, optimizing model performance, and developing intelligent systems.
 
-- 🔍 Strong foundation in **Machine Learning & Deep Learning**
-- 🧠 Hands-on experience with **CNN, DenseNet, EfficientNet**
-- 📊 End-to-end ML pipelines (EDA → Modeling → Evaluation)
-- 🚀 Passionate about continuous learning and research
+- 🔍 Strong background in **Machine Learning & Data Science**  
+- 🧠 Experience with **CNN, XGBoost, ANN, NLP-based systems**  
+- 📊 End-to-end ML lifecycle (EDA → Training → Evaluation → Deployment)  
+- 🚀 Passionate about continuous learning and scalable AI solutions  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,mysql,html,css,javascript,flutter&theme=dark" />
 </p>
 
-**Core Areas**
+### ⚙ Core Areas  
 - Machine Learning & Deep Learning  
-- Computer Vision  
-- Data Analysis & Feature Engineering  
-- Model Optimization & Evaluation  
+- Data Science & Statistics  
+- Computer Vision & NLP  
+- Feature Engineering & Model Optimization  
+- Data Structures & OOPS  
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Education  
 
-| Project | Description | Tech Stack | Accuracy |
-|-------|------------|-----------|----------|
-| 🧠 **Stroke & Tumor Detection** | Medical image classification using CNN | TensorFlow, CNN | **96%** |
-| 🌸 **Iris Classification** | Multiclass classification using KNN | Scikit-learn | **100%** |
-| 💳 **Credit Card Fraud Detection** | Hybrid ML + ANN fraud detection system | RF, ANN | **98%** |
+**🎓 B.Tech in Computer Science & Engineering**  
+APJ Abdul Kalam Technological University  
+Younus College of Engineering and Technology (2021 – 2025)  
+📊 CGPA: **6.41**  
+
+**🏫 Higher Secondary (CBSE)** — 89%  
+**🏫 Secondary School (CBSE)** — 89.8%  
 
 ---
 
-## 🏆 Achievements & Leadership
+## 🚀 Featured Projects  
+
+| Project | Description | Tech Stack | Result |
+|-------|------------|-----------|--------|
+| 💳 **UPI Fraud Detection System** | ML-based real-time fraud detection system with optimized preprocessing | Python, XGBoost, Flask, MySQL | **High Accuracy Detection** |
+| 🤖 **Academic Assistance Chatbot** | NLP-powered chatbot for instant academic support | Python, Flask, MongoDB, NLP | **Fast Response System** |
+| 🧠 **Stroke & Tumor Detection** | CNN-based medical image classification system | TensorFlow, CNN | **96% Accuracy** |
+| 🌸 **Iris Classification** | Multiclass classification using KNN | Scikit-learn | **100% Accuracy** |
+
+---
+
+## 💼 Internships  
+
+- 🐍 **Python Programming Internship** — M Squared Software & Services (2025)  
+- ☕ **Java Programming Internship** — ICT Academy of Kerala (2024)  
+
+---
+
+## 🏆 Achievements & Leadership  
 
 - 🥈 **2nd Prize** – APJKTU Tech Fest (2023)  
 - 🌐 **IEEE & µLearn Web Master**  
 - 🧩 **Hackathon Coordinator** – TinkerHub  
-- 👥 Active contributor to student tech communities  
+- 👥 Active contributor to student technical communities  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Noufal22&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
@@ -66,7 +87,7 @@ I enjoy building **scalable, real-world models** that solve meaningful problems.
 
 ---
 
-## 🌐 Contribution Overview
+## 🌐 Contribution Overview  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noufal22&theme=github_dark" />
@@ -74,10 +95,10 @@ I enjoy building **scalable, real-world models** that solve meaningful problems.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="http://linkedin.com/in/noufal-najeeb-n" target="_blank">
+  <a href="https://linkedin.com/in/noufal-najeeb-n" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:noufalnajeeb222@gmail.com">
@@ -88,5 +109,5 @@ I enjoy building **scalable, real-world models** that solve meaningful problems.
 ---
 
 <p align="center">
-  ⭐ If you find my work interesting, consider starring my repositories!
+  ⭐ Like my work? Star my repositories and let's collaborate on AI projects!
 </p>
